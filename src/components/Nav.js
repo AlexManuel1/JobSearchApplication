@@ -9,7 +9,7 @@ class Nav extends React.Component {
             <div className="nav-container">
 
                 <Link to={{
-                    pathname: "/",
+                    pathname: "/JobSearchApplication",
                 }}>
                     <div className="nav-element"><a>Home</a></div>
                 </Link>

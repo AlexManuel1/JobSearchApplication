@@ -13,7 +13,7 @@ class App extends React.Component {
                 <switch>
                     <Router>
                         <Header />
-                        <Route path="/" exact component={Home}/>
+                        <Route path="/JobSearchApplication" exact component={Home}/>
                         <Route path="/Main" component={Main}/>
                     </Router>
                 </switch>
